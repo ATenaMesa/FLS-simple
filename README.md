@@ -5,4 +5,4 @@
     DNVGL-RP-C203: Fatigue design of offshore steel structures. Section 5
     OFFSHORE STANDARD DET NORSKE VERITAS DNV-OS-C101. DESIGN OF OFFSHORE STEEL STRUCTURES, GENERAL (LRFD METHOD)
     
-    FLS
+    Run FLS_simple.py file to start with the simulation
